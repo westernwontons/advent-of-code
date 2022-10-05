@@ -1,0 +1,3 @@
+#!/bin/sh
+
+make && ./sonar_sweep_part_1
